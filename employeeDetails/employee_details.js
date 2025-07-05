@@ -32,6 +32,6 @@ function findEmployeeById(employeeId) {
     document.getElementById('employeesDetails').innerHTML =`<p>${foundSpecEmployee.id}: ${foundSpecEmployee.name}: ${foundSpecEmployee.name} - ${foundSpecEmployee.department} - ${foundSpecEmployee.specialization}</p>`;
     }
     else{
-      document.getElementById('employeesDetails').innerHTML = 'no employee has been found with this ID';
+      document.getElementById('employeesDetails').innerHTML = 'no employee has been found with this Specialization';
      }
  }
