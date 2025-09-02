@@ -1,1 +1,2 @@
-Just some randomness going on in here.
+Simple website of my skills. 
+
